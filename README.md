@@ -2,4 +2,4 @@
 
 Clone o reposítório. Execute os comandos abaixo:
 
-`<blockquote>`docker-compose up -d
+  <blockquote>docker-compose up -d
